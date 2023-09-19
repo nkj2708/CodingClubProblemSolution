@@ -1,0 +1,13 @@
+// Linked list implementation using java language
+// Import the LinkedList class
+import java.util.LinkedList;
+
+public class Main {
+  public static void main(String[] args) {
+    LinkedList<String> cities = new LinkedList<String>();
+    cities.add("Delhi");
+    cities.add("Noida");
+    cities.add("Gurugram");
+    System.out.println(cars);
+  }
+}
