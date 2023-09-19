@@ -8,6 +8,6 @@ public class Main {
     cities.add("Delhi");
     cities.add("Noida");
     cities.add("Gurugram");
-    System.out.println(cars);
+    System.out.println(cities);
   }
 }
